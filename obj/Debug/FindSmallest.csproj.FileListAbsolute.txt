@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Projects\FindSmallest\FindSmallest\bin\Debug\FindSmallest.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Projects\FindSmallest\FindSmallest\bin\Debug\FindSmallest.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Projects\FindSmallest\FindSmallest\bin\Debug\FindSmallest.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Projects\FindSmallest\FindSmallest\obj\Debug\FindSmallest.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Projects\FindSmallest\FindSmallest\obj\Debug\FindSmallest.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\Projects\FindSmallest\FindSmallest\obj\Debug\FindSmallest.pdb
